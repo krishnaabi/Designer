@@ -34,9 +34,9 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://github.com/victorcodess"
+            href="https://www.behance.net/abikrishna15"
             target="_blank"
-            aria-label="View GitHub Profile"
+            aria-label="View Behance Profile"
           >
             <motion.p
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+            href="https://www.linkedin.com/in/abi-krishna-15abi"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
