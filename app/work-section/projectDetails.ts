@@ -27,8 +27,8 @@ export const devProjects = [
     description:
       "Corporate website design for B2M Business Solutions, presenting IT and business services with a clean, structured layout aimed at professional credibility and client trust.",
     technologies: ["Figma", "UI/UX Design", "Business Website"],
-    figma: "https://www.figma.com/design/3cJPem7H5aVhIZ0ddset8o/B2M-Business-Solution?m=auto&t=eBXYHzi3DU3p43Hg-1",
-    demo: "",
+    figma: "https://www.figma.com/design/3cJPem7H5aVhIZ0ddset8o/B2M-Business-Solution?node-id=0-1&t=WIQM71gJHfY2ACV1-1",
+    demo: "https://www.b2mbs.com/",
     image: require(".//../../public/2.png"),
     available: true,
   },
