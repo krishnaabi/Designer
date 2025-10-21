@@ -12,12 +12,11 @@ export type ProjectProps = {
 export const devProjects = [
   {
     id: 0,
-    name: "AdConvo",
+    name: "Hanioo",
     description:
-      "Dashboard UI for AdConvo, a digital marketing campaign manager with modules for ad performance tracking, budget analytics, and client reports.",
-    technologies: ["Figma", "UI/UX Design", "Dashboard"],
-    figma: "https://www.figma.com/design/jIEYAozZcFsIKDaOEjiIcu/Adconvo?t=PwKQoFFVfbWALXbw-1",
-    demo: "https://www.behance.net/gallery/220641749/AdConvo",
+      "Hanioo is a user-friendly platform connecting interpreters and clients for seamless communication, transparent booking, and secure payment management..",
+    technologies: ["Figma", "UI/UX Design", "App", "Julius AI", "Mira"],
+    figma: "https://www.figma.com/proto/GGLyNXbkrHmvXWZD4ks84u/Case-Study-Template---Creative-Ferry--Community-?node-id=206-28&p=f&t=bNPPsvK9YMMsa2JD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
     image: require(".//../../public/1.jpg"),
     available: true,
   },
@@ -45,13 +44,13 @@ export const devProjects = [
   },
   {
     id: 3,
-    name: "SAS Builder",
+    name: "AdConvo",
     description:
-      "Website design for SAS Builder, a real estate and construction brand, showcasing premium housing and commercial spaces with a modern and trustworthy digital identity.",
-    technologies: ["Figma", "UI/UX Design", "Real Estate"],
-    figma: "https://www.figma.com/design/2HmkZAl0nkUimd41WGmx5D/sas-foundation?t=PwKQoFFVfbWALXbw-1",
-    demo: "",
-    image: require(".//../../public/3.png"),
+      "Dashboard UI for AdConvo, a digital marketing campaign manager with modules for ad performance tracking, budget analytics, and client reports.",
+    technologies: ["Figma", "UI/UX Design", "Dashboard"],
+    figma: "https://www.figma.com/design/jIEYAozZcFsIKDaOEjiIcu/Adconvo?t=PwKQoFFVfbWALXbw-1",
+    demo: "https://www.behance.net/gallery/220641749/AdConvo",
+    image: require(".//../../public/1.jpg"),
     available: true,
   },
   {
