@@ -4,7 +4,7 @@ export type ProjectProps = {
   description: string;
   technologies: string[];
   figma: string;
-  demo?: string;
+  demo: string;
   image: string;
   available: boolean;
 };
@@ -19,6 +19,7 @@ export const devProjects = [
     figma: "https://www.figma.com/proto/GGLyNXbkrHmvXWZD4ks84u/Case-Study-Template---Creative-Ferry--Community-?node-id=206-28&p=f&t=bNPPsvK9YMMsa2JD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
     image: require(".//../../public/0.jpg"),
     available: true,
+    demo: "",
   },
   {
     id: 1,
