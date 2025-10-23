@@ -4,7 +4,7 @@ import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../public/Abikrishna T.jpg";
+import profile from "../../public/Abikrishna T.jpeg";
 
 const Hero = () => {
   return (
