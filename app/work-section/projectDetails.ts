@@ -4,7 +4,7 @@ export type ProjectProps = {
   description: string;
   technologies: string[];
   figma: string;
-  demo: string;
+  demo?: string;
   image: string;
   available: boolean;
 };
